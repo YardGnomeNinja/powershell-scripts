@@ -1,0 +1,20 @@
+{
+  "packageName": "P7.SDK",
+  "packageVersion": "1.0.0",
+  "sourceFolder": "src",
+  "packageGuid": "04358f1f-e5d5-4924-b3b2-7d3014cbef90",
+  "targetFramework": "v4.5",
+  "hideGenerationTimestamp": "true",
+  "interfacePrefix": "I",
+  "sortParamsByRequiredFlag": "true",
+  "useDateTimeOffset": "false",
+  "useCollection": "false",
+  "returnICollection": "false",
+  "optionalMethodArgument": "true",
+  "optionalAssemblyInfo": "true",
+  "optionalProjectFile": "true",
+  "optionalEmitDefaultValues": "false",
+  "generatePropertyChanged": "false",
+  "nonPublicApi": "false",
+  "allowUnicodeIdentifiers": "false"
+}
